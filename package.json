@@ -1,0 +1,24 @@
+{
+  "name": "node_web_server",
+  "version": "1.0.0",
+  "description": "Simple Web Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArianulIslam/Simple-node-Server.git"
+  },
+  "author": "Arianul Islam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArianulIslam/Simple-node-Server/issues"
+  },
+  "homepage": "https://github.com/ArianulIslam/Simple-node-Server#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
